@@ -15,3 +15,5 @@ These terms essentially allow for the free distribution and sharing of my work w
 Please make sure to review the complete [license terms](https://creativecommons.org/licenses/by-nd/4.0/deed.en) for a comprehensive understanding of how it applies.
 
 If you have any further questions or need assistance with anything else, feel free to ask!
+
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
