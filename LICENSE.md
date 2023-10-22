@@ -1,4 +1,4 @@
-**[Back to home](https://github.com/LunaWave/astera/blob/main/README.md)**
+**[Back to home](README.md)**
 
 Creative Commons Legal Code
 
