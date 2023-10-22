@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Astera
 Astera is a 2D side-scrolling open-world game, drawing inspiration from popular titles like 'Terraria' and 'Astroneer.'
 
@@ -16,4 +18,3 @@ Please make sure to review the complete [license terms](https://creativecommons.
 
 If you have any further questions or need assistance with anything else, feel free to ask!
 
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
