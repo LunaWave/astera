@@ -4,7 +4,7 @@
 Astera is a 2D side-scrolling open-world game, drawing inspiration from popular titles like 'Terraria' and 'Astroneer.'
 
 # License
-Astera is released under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en) license. You can view the specific terms of the license [here](https://creativecommons.org/licenses/by-nd/4.0/deed.en).
+Astera is released under the [CC BY-ND 4.0](https://external.ink?to=/creativecommons.org/licenses/by-nd/4.0/deed.en) license. You can view the specific terms of the license [here](https://creativecommons.org/licenses/by-nd/4.0/deed.en).
 
 The license, the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0), has certain terms and conditions:
 
