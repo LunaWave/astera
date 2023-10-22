@@ -12,6 +12,6 @@ The license, the Creative Commons Attribution-NoDerivatives 4.0 International Li
 
 These terms essentially allow for the free distribution and sharing of my work with proper attribution while maintaining the integrity of my original content without alterations.
 
-Please make sure to review the complete [license terms](https://creativecommons.org/licenses/by-nd/4.0/deed.en) for a comprehensive understanding of how it applies.
+Please make sure to review the complete [license terms](https://creativecommons.org/licenses/by-nd/4.0/deed.en){:target="_blank"} for a comprehensive understanding of how it applies.
 
 If you have any further questions or need assistance with anything else, feel free to ask!
