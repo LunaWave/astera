@@ -7,7 +7,7 @@ Astera is a 2D side-scrolling open-world game, drawing inspiration from popular 
   - [Full Terms](https://github.com/LunaWave/astera/blob/main/LICENSE.md)
 
 # License
-**<a href="#contents"><small>Back to top</small></a>**
+**[Back to top](#contents)**
 
 Astera is released under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en) license. You can view the specific terms of the license [here](https://github.com/LunaWave/astera/blob/main/LICENSE.md).
 
