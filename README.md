@@ -1,5 +1,5 @@
 <p align="center">
-<img src="astera.png" width="100" height="100"/>
+<img src="astera.png" width="200%" height="200%"/>
 </p>
 
 # Astera: A Unique 2D Side-Scrolling Open-World Adventure
