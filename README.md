@@ -1,6 +1,7 @@
 <p align="center">
 <img src="astera.png"/>
 </p>
+
 # Astera: A Unique 2D Side-Scrolling Open-World Adventure
 
 Astera, an ambitious 2D side-scrolling open-world game, draws inspiration from beloved titles like [*Terraria*](https://terraria.org/) and [*Astroneer*](https://astroneer.space/). With a unique blend of exploration, crafting, and discovery, it stands as a testament to the vision of creating a captivating gaming experience.
