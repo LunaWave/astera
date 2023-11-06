@@ -53,4 +53,15 @@ If you have any further questions or need assistance with anything else, feel fr
 
 # References
 **[Back to top](#contents)**
+1. **Love2D**
+   - Love2D Official Site: [Love2D](https://love2d.org/)
+   - Accessibility and Learning Curve: [Love2D](https://love2d.org/)
+   - 2D Game Focus: [Love2D](https://love2d.org/)
+   - Rapid Prototyping and Iteration: [Love2D](https://love2d.org/)
+   - Cross-Platform Capabilities: [Love2D](https://love2d.org/)
+   - Active and Supportive Community: [Love2D](https://love2d.org/)
+   - Extensibility and Customizability: [Love2D](https://love2d.org/)
 
+2. **License**
+   - License Terms: [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
+   - Complete License Terms: [License Terms](LICENSE.md)
