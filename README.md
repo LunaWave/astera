@@ -1,7 +1,24 @@
-# Astera
-Astera is a 2D side-scrolling open-world game, drawing inspiration from popular titles like 'Terraria' and 'Astroneer.'
+# Astera: A Unique 2D Side-Scrolling Open-World Adventure
 
-Programmed fully in Lua using the Love2D framework, Astera is a uniquely developed game. 
+Astera, an ambitious 2D side-scrolling open-world game, draws inspiration from beloved titles like [*Terraria*](https://terraria.org/) and [*Astroneer*](https://astroneer.space/). With a unique blend of exploration, crafting, and discovery, it stands as a testament to the vision of creating a captivating gaming experience.
+
+**Gameplay and Inspiration**
+
+In Astera, players embark on an immersive journey across a procedurally generated world, encountering a myriad of terrains and environments. Inspired by the open-world exploration elements of *Terraria* and the interstellar discovery mechanics of *Astroneer*, Astera offers a vast canvas for players to explore, build, and uncover mysteries.
+
+**Built with Love2D**
+
+Astera is meticulously crafted and programmed entirely in Lua, leveraging the dynamic capabilities of the [Love2D framework](https://love2d.org/). Love2D's focus on 2D game development has provided the ideal foundation, allowing for a balance of simplicity and versatility in the creation of this unique gaming experience.
+
+**Key Features**
+
+- *Procedurally Generated Worlds:* Each gameplay session in Astera offers a fresh adventure, thanks to its procedural world generation system.
+- *Crafting and Building:* Players can delve into crafting various tools, structures, and vehicles to aid in their exploration and survival.
+
+Astera is a testament to the boundless possibilities of 2D gaming, leveraging the Love2D framework to offer a unique blend of open-world exploration, resource gathering, and creative construction.
+
+Experience the enchanting journey of Astera, a game that encapsulates the thrill of discovery and the joy of creation in a captivating 2D adventure, releasing *hopefully* **Q3** of **2024**
+
 
 ## Contents
 - [Love2D](#Love2D)
@@ -53,7 +70,11 @@ If you have any further questions or need assistance with anything else, feel fr
 
 # References
 **[Back to top](#contents)**
-1. **Love2D**
+1. **Inspirational Games**
+   - Terraria Official Site: [Terraria](https://terraria.org/)
+   - Astroneer Official Site: [Astroneer](https://astroneer.space/)
+     
+2. **Love2D**
    - Love2D Official Site: [Love2D](https://love2d.org/)
    - Accessibility and Learning Curve: [Love2D](https://love2d.org/)
    - 2D Game Focus: [Love2D](https://love2d.org/)
@@ -62,6 +83,6 @@ If you have any further questions or need assistance with anything else, feel fr
    - Active and Supportive Community: [Love2D](https://love2d.org/)
    - Extensibility and Customizability: [Love2D](https://love2d.org/)
 
-2. **License**
+3. **License**
    - License Terms: [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
    - Complete License Terms: [License Terms](LICENSE.md)
