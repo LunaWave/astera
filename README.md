@@ -12,6 +12,7 @@ Programmed fully in Lua using the Love2D framework, Astera is a uniquely develop
 
 # Love2D: Empowering My Game Development Journey
 **[Back to top](#contents)**
+
 As I embarked on the exciting journey of developing my game, I carefully evaluated various frameworks before selecting Love2D for several compelling reasons:
 
 ### Accessibility and Learning Curve
