@@ -21,7 +21,7 @@ Astera is meticulously crafted and programmed entirely in Lua, leveraging the dy
 
 Astera is a testament to the boundless possibilities of 2D gaming, leveraging the Love2D framework to offer a unique blend of open-world exploration, resource gathering, and creative construction.
 
-Experience the enchanting journey of Astera, a game that encapsulates the thrill of discovery and the joy of creation in a captivating 2D adventure, <u>releasing</u> *hopefully* **Q3** of **2024**
+Experience the enchanting journey of Astera, a game that encapsulates the thrill of discovery and the joy of creation in a captivating 2D adventure, releasing *hopefully* **Q3** of **2024**
 
 
 ## Contents
